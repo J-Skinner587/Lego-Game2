@@ -92,6 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 864136751366872674}
+  - component: {fileID: 7107663913781821750}
   m_Layer: 0
   m_Name: RoadPart
   m_TagString: Untagged
@@ -141,6 +142,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7107663913781821750
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 569048131181424221}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 95.895836, y: 1.1366272, z: 32.284023}
+  m_Center: {x: 8.0953455, y: -43.9381, z: 19.763788}
 --- !u!1 &790602634335042221
 GameObject:
   m_ObjectHideFlags: 0
